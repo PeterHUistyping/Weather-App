@@ -18,3 +18,5 @@ git clone https://github.com/gtxn/weather-app-grp3
 cd weather-app-grp3
 flutter run --release
 ```
+
+![weather-app](photo/1.png)
